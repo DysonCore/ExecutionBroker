@@ -1,0 +1,12 @@
+{
+  "name": "com.dysoncore.execution-broker",
+  "version": "1.0.0",
+  "displayName": "Execution Broker",
+  "description": "test",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "license": "See LICENSE.md file",
+  "author": {
+    "name": "DysonCore"
+  }
+}
