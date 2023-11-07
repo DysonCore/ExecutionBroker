@@ -1,0 +1,13 @@
+{
+    "name": "DysonCore.ExecutionBroker",
+    "rootNamespace": "DysonCore.ExecutionBroker",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
